@@ -18,7 +18,7 @@ $ cd workspace
 $ repo init -u https://github.com/openagriculture/manifest.git -b branchname
 
   Possible branches are :
-	beageboard - downloads and builds BSP for beageboard.
+	beagleboard - downloads and builds BSP for beageboard.
 	hence command to download BSP for beagleboard will be,
 	repo init -u https://github.com/shivdasgujare/manifest.git -b beagleboard
 
