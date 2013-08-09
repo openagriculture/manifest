@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="git://github.com/openagriculture/" />
+
+  <default remote="github"/>
+  <project groups="default" name="poky" path="metadata/poky" revision="c3505828f267ca68aaf454355466f54772545a22"/>
+
+</manifest>
