@@ -6,5 +6,6 @@
 
   <default remote="github"/>
   <project groups="default" name="poky" path="metadata/poky" revision="c3505828f267ca68aaf454355466f54772545a22"/>
+  <project groups="default" name="meta-anar" path="metadata/meta-anar" revision="04cf10b28d5104658b0c62b47b9830042cce137a"/>
 
 </manifest>
